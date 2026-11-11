@@ -1,0 +1,9 @@
+{
+  "name": "perfilweb",
+  "version": "1.0.0",
+  "description": "Perfil web de Juanjo Tapiador",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
